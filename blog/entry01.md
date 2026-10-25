@@ -14,17 +14,17 @@ At this point, I'm working on understanding and defining the problem. I want to 
 Some skills that I have are:
 
 <ul>
-  <li> Researching on Google </li>
-  <li> Critical Thinking </li>
+  <li> How to Google </li>
+  <li> Logical Reasoning </li>
 </ul>
 
-#### Researching 
+#### How to google 
 
-Researching on Google is an important skill I developed when working on the project. When I started looking into the project about technology in medical practice, I needed to find articles that talked about how technology was being used. When I just googled "Medical Practice" none of the articles talked about technology. This led me to become more specific so that I was able to get the result I wanted, which was information on how technology impacted medical practices today. Searching for this topic helped me find useful information which sparked my interest as I skimmed through the titles of articles that seemed the most compelling, like [Application of digital technology in medical practice](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1722648/full) and [Integrating Technology into Clinical Practice](https://link.springer.com/chapter/10.1007/978-3-031-88117-6_15). As I researched, it allowed me to find reliable information by filtering the results down to the topics I search, learning unfamiliar topics, and making informed decisions.
+Googing is an important skill I developed when working on the project. When I started looking into the project about technology in medical practice, I needed to find articles that talked about how technology was being used. When I just googled "Medical Practice" none of the articles talked about technology. This led me to become more specific so that I was able to get the result I wanted, which was information on how technology impacted medical practices today. Searching for this topic helped me find useful information which sparked my interest as I skimmed through the titles of articles that seemed the most compelling, like [Application of digital technology in medical practice](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1722648/full) and [Integrating Technology into Clinical Practice](https://link.springer.com/chapter/10.1007/978-3-031-88117-6_15). As I googled, it allowed me to find reliable information by filtering the results down to the topics I search, learning unfamiliar topics, and making informed decisions.
 
-#### Critical Thinking
+#### Logical Reasoning
 
-Another skill I developed was critical thinking. While researching the project, I realized how it was important to examine information carefully and to consider if the information provided is reliable. When reading the articles about medical innovations, I needed to research about both the advantages and disadvantages instead of just the positive aspects. I couldn't just focus on how the benefits these medical technologies had with helping doctors treat patients, but the limitations and challenges that came with it. When I looked a the first article, [Application of digital technology in medical practice](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1722648/full), there weren't just positive aspects to using technology in medicine, there were challenges listed down. This led me to think more deeply about the information I was give, evaluating the information, comparing different viewpoints, and questioning evidence.
+Another skill I developed was logical reasoning. While researching the project, I realized how it was important to examine information carefully and to consider if the information provided is reliable to form a reasonable conclusion. When reading the articles about medical innovations, I needed to research about both the advantages and disadvantages instead of just the positive aspects. I couldn't just focus on how the benefits these medical technologies had with helping doctors treat patients, but the limitations and challenges that came with it. When I looked a the first article, [Application of digital technology in medical practice](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1722648/full), there weren't just positive aspects to using technology in medicine, there were challenges listed down. This led me to think more deeply about the information I was give, evaluating the information, comparing different viewpoints, and questioning evidence.
 
 ## Next Steps
 
