@@ -12,7 +12,7 @@ Topic: **Medical Practice**
   * Helps doctors organize patient information and manage their medical practices
   * Stores patient records, schedule appointments, manage prescriptions, and document medical visits
   * It allows doctors to access information organized in one digital system instead of on paper.
-  * [Praxisemr](prep/praxisemr.png)
+  * [Praxisemr](praxisemr.png)
 * Another app I came across was [VoxScan](https://voxscan.com/)
   * This is a software that converts CT and MRI scans into interactive 3D visuals, allowing users to zoom in, rotate, and      explore the 3D structures
   * You can record and share 3D medical visualizations, allowing medical doctors to better understand medical scans and        explain anatomical structures to patients
