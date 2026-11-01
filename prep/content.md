@@ -25,13 +25,15 @@ Topic: **Medical Practice**
   * Provides medical research, references, as well as treatment guides
   * Acessible through web browsers on computer, phones, and tablets
   * [Symptomdx. IMG](https://github.com/amyl3258/sep10-freedom-project/blob/main/prep/Symptomdx.png)
-
-##### Hardware
 * A fourth app I discovered was [VisualDx](https://www.visualdx.com/)
   * It provides medical pictures and information about various diseases
   * Includes information about skin conditions and other illnesses
   * Can be accessed through phones, tablets, and computers
   * [VisualDx IMG](https://i.pinimg.com/736x/56/da/ca/56dacaa7d3785d3f02a3a97dc684cc87.jpg)
+
+##### Hardware
+* App
+* [IMG][URL]
 
 
 ## Part B: possible future technology
