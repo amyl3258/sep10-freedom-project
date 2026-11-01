@@ -27,7 +27,7 @@ Topic: **Medical Practice**
   * 
 
 ##### Hardware
-*A fourth app I discovered was [VisualDx](https://www.visualdx.com/)
+* A fourth app I discovered was [VisualDx](https://www.visualdx.com/)
   * It provides medical pictures and information about various diseases
   * Includes information about skin conditions and other illnesses
   * Can be accessed through phones, tablets, and computers
