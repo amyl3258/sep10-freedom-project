@@ -8,17 +8,30 @@ Topic: **Medical Practice**
 ## Part A: existing technology
 
 ##### Software
-* Tech
-  * Detail
+* An app I found was Praxis EMR [Praxisemr](https://www.praxisemr.com/)
+  * Helps doctors organize patient information and manage their medical practices
+  * Stores patient records, schedule appointments, manage prescriptions, and document medical visits
+  * It allows doctors to access information organized in one digital system instead of on paper.
   * [image text](image URL)
+* Another app I came across was [VoxScan](https://voxscan.com/)
+  * This is a software that converts CT and MRI scans into interactive 3D visuals, allowing users to zoom in, rotate, and explore the 3D structures
+  * You can record and share 3D medical visualizations, allowing medical doctors to better understand medical scans and explain anatomical structures to patients
+  * Users can isolate different structures, like bones nerves, and muscles
+  * Available on computers
+  * s
+ * A third app I discovered was [Symptomdx.](https://www.symptomdx.com/)
+  * Helps investigate symptoms to then consider possible medical conditions
+  * Includes information about headaches, chest pain, dizziness, coughing, warning signs, and possible health risks
+  * Provides medical research, references, as well as treatment guides
+  * Acessible through web browsers on computer, phones, and tablets
+  * 
 
 ##### Hardware
-* An app I found was [VisualDx](https://www.visualdx.com)
+A fourth app I discovered was [VisualDx](https://www.visualdx.com/)
   * It provides medical pictures and information about various diseases
   * Includes information about skin conditions and other illnesses
   * Can be accessed through phones, tablets, and computers
-  * 
-  * [image text](image URL)
+
 
 ## Part B: possible future technology
 * Idea
