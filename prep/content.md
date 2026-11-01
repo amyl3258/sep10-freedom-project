@@ -18,20 +18,20 @@ Topic: **Medical Practice**
   * You can record and share 3D medical visualizations, allowing medical doctors to better understand medical scans and        explain anatomical structures to patients
   * Users can isolate different structures, like bones nerves, and muscles
   * Available on computers
-  * [VoxScan](prep/voxscan.png)
+  * [VoxScan](https://github.com/amyl3258/sep10-freedom-project/blob/main/prep/voxscan.png)
 * A third app I discovered was [Symptomdx.](https://www.symptomdx.com/)
   * Helps investigate symptoms to then consider possible medical conditions
   * Includes information about headaches, chest pain, dizziness, coughing, warning signs, and possible health risks
   * Provides medical research, references, as well as treatment guides
   * Acessible through web browsers on computer, phones, and tablets
-  * [Symptomdx.](prep/Symptomdx.png)
+  * [Symptomdx.](https://github.com/amyl3258/sep10-freedom-project/blob/main/prep/Symptomdx.png)
 
 ##### Hardware
 * A fourth app I discovered was [VisualDx](https://www.visualdx.com/)
   * It provides medical pictures and information about various diseases
   * Includes information about skin conditions and other illnesses
   * Can be accessed through phones, tablets, and computers
-  * [VisualDx](prep/visualdx.png)
+  * [VisualDx](https://github.com/amyl3258/sep10-freedom-project/blob/main/prep/visualdx.png)
 
 
 ## Part B: possible future technology
