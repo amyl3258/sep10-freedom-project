@@ -13,8 +13,11 @@ Topic: **Medical Practice**
   * [image text](image URL)
 
 ##### Hardware
-* Tech
-  * Detail
+* An app I found was [VisualDx] (https://www.visualdx.com)
+  * It provides medical pictures and information about various diseases
+  * Includes information about skin conditions and other illnesses
+  * Can be accessed through phones, tablets, and computers
+  * 
   * [image text](image URL)
 
 ## Part B: possible future technology
