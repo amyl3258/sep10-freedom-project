@@ -19,7 +19,7 @@ Topic: **Medical Practice**
   * Users can isolate different structures, like bones nerves, and muscles
   * Available on computers
   * s
- * A third app I discovered was [Symptomdx.](https://www.symptomdx.com/)
+* A third app I discovered was [Symptomdx.](https://www.symptomdx.com/)
   * Helps investigate symptoms to then consider possible medical conditions
   * Includes information about headaches, chest pain, dizziness, coughing, warning signs, and possible health risks
   * Provides medical research, references, as well as treatment guides
@@ -27,7 +27,7 @@ Topic: **Medical Practice**
   * 
 
 ##### Hardware
-A fourth app I discovered was [VisualDx](https://www.visualdx.com/)
+*A fourth app I discovered was [VisualDx](https://www.visualdx.com/)
   * It provides medical pictures and information about various diseases
   * Includes information about skin conditions and other illnesses
   * Can be accessed through phones, tablets, and computers
