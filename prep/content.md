@@ -32,8 +32,15 @@ Topic: **Medical Practice**
   * [VisualDx IMG](https://i.pinimg.com/736x/56/da/ca/56dacaa7d3785d3f02a3a97dc684cc87.jpg)
 
 ##### Hardware
-* App
-* [IMG][URL]
+* A hardware technology I had discovered was 
+  * 
+  * [IMG][URL]
+ * Another hardware technology I had learned about was 
+  * 
+  * [IMG][URL]
+ * A third hardware technology I found was
+  * 
+  * [IMG][URL] 
 
 
 ## Part B: possible future technology
