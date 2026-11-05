@@ -40,9 +40,8 @@ Topic: **Medical Practice**
   * [EKO IMG](https://www.ekohealth.com/cdn/shop/files/Frame_13987-min_1000x.png?v=1734033897)
  * Another hardware technology I had learned about was Optomed Aurora Aeye [Optomed](https://www.optomed.com/us/auroraaeye)
   * It's a portable camera that takes detailed photos for diabetic retinopathy (an eye condition developed from diabetes)      with a handheld AI fundus camera where results come in less than 60 secs
-  * Equipped with Smart Autofocus and Auto Exposure features to help capture clear images without the patient's pupils to be dilated
+  * Equipped with Smart Autofocus and Auto Exposure features to help capture clear images without the patient's pupils to      be dilated
   * It's FDA-Cleared and is used by trained healthcare professionals
-  * 
   * [OPTOMED IMG](https://www.optomed.com/us/wp-content/uploads/sites/2/2024/04/AEYE-User-Manual-720x1026.png)
  * A third hardware technology I found was Vscan Air Portable Ultrasound System[Ge HealthCare](https://www.gehealthcare.com/en-us/products/ultrasound/handheld-ultrasound)
   * A wireless and handheld ultrasound device that helps clinicians make informed treatment decisions with flexibility and     portability, especially because it is small
