@@ -11,7 +11,7 @@ Topic: **Medical Practice**
 * An app I found was Praxis EMR [Praxisemr](https://www.praxisemr.com/)
   * Helps doctors organize patient information and manage their medical practices
   * Stores patient records, schedule appointments, manage prescriptions, and document medical visits
-  * It allows doctors to access information organized in one digital system instead of on paper.
+  * It allows doctors to access information organized in one digital system instead of on paper
   * [Praxisemr IMG](https://www.praxisemr.com/images/praxis-medications-microsoft-surface-pro-front-640.webp)
 * Another app I came across was [VoxScan](https://voxscan.com/)
   * This is a software that converts CT and MRI scans into interactive 3D visuals, allowing users to zoom in, rotate, and      explore the 3D structures
@@ -32,15 +32,23 @@ Topic: **Medical Practice**
   * [VisualDx IMG](https://i.pinimg.com/736x/56/da/ca/56dacaa7d3785d3f02a3a97dc684cc87.jpg)
 
 ##### Hardware
-* A hardware technology I had discovered was 
+* A hardware technology I had discovered was Eko Digital Stethoscopes [EKO](https://www.ekohealth.com/)
+  * It's a digital stethoscope that can amplify and filter sounds, making it easier for doctors to listen to the heart,        lung, and other parts of the body
+  * Displays heart rate with real-time waveforms and 3-led ECG tracings
+  * Could be connected to the EKO mobile app to review and record sounds
+  * Flags disease earlier though AI
+  * [EKO IMG](https://www.ekohealth.com/cdn/shop/files/Frame_13987-min_1000x.png?v=1734033897)
+ * Another hardware technology I had learned about was Optomed Aurora Aeye [Optomed](https://www.optomed.com/us/auroraaeye)
+  * It's a portable camera that takes detailed photos for diabetic retinopathy (an eye condition developed from diabetes)      with a handheld AI fundus camera where results come in less than 60 secs
+  * Equipped with Smart Autofocus and Auto Exposure features to help capture clear images without the patient's pupils to be dilated
+  * It's FDA-Cleared and is used by trained healthcare professionals
   * 
-  * [IMG][URL]
- * Another hardware technology I had learned about was 
-  * 
-  * [IMG][URL]
- * A third hardware technology I found was
-  * 
-  * [IMG][URL] 
+  * [OPTOMED IMG](https://www.optomed.com/us/wp-content/uploads/sites/2/2024/04/AEYE-User-Manual-720x1026.png)
+ * A third hardware technology I found was Vscan Air Portable Ultrasound System[Ge HealthCare](https://www.gehealthcare.com/en-us/products/ultrasound/handheld-ultrasound)
+  * A wireless and handheld ultrasound device that helps clinicians make informed treatment decisions with flexibility and     portability, especially because it is small
+  * Can be used for abdominal, cardiac, bladder, and other examinations
+  * It has two types of scanning technology in one probe which allows for whole body scanning and doesn't require you to       switch devices
+  * [VSAN IMG](https://tse1.mm.bing.net/th/id/OIP.TUQ-zbEGQBUUtHkhnxtMiAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
 
 
 ## Part B: possible future technology
