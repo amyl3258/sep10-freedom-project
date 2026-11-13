@@ -27,9 +27,8 @@ Topic: **Medical Practice**
   * Can be accessed through phones, tablets, and computers
   * [VisualDx IMG](https://i.pinimg.com/736x/56/da/ca/56dacaa7d3785d3f02a3a97dc684cc87.jpg)
  
-  
  **Sound Information**
-    * App: [EKO](https://www.ekohealth.com/)
+  * App: [EKO](https://www.ekohealth.com/)
     
 * _Eko Digital Stethoscopes_ (hardware)
   * It's a digital stethoscope that can amplify and filter sounds, making it easier for doctors to listen to the heart,        lung, and other parts of the body
@@ -39,7 +38,7 @@ Topic: **Medical Practice**
   * [EKO IMG](https://www.ekohealth.com/cdn/shop/files/Frame_13987-min_1000x.png?v=1734033897)
 
  **Image Information**
-    * Apps: [Optomed](https://www.optomed.com/us/auroraaeye) , [Ge HealthCare](https://www.gehealthcare.com/en-us/products/ultrasound/handheld-ultrasound)
+  * Apps: [Optomed](https://www.optomed.com/us/auroraaeye) , [Ge HealthCare](https://www.gehealthcare.com/en-us/products/ultrasound/handheld-ultrasound)
 
 * _Optomed Aurora Aeye_ (hardware)
    * It's a portable camera that takes detailed photos for diabetic retinopathy (an eye condition developed from diabetes)      with a handheld AI fundus camera where results come in less than 60 secs
@@ -54,7 +53,7 @@ Topic: **Medical Practice**
 
 
  **3D Information**
-     * App: [VoxScan](https://voxscan.com/)
+  * App: [VoxScan](https://voxscan.com/)
 
 * _Vox Scan_ (hardware)
   * This is a software that converts CT and MRI scans into interactive 3D visuals, allowing users to zoom in, rotate, and      explore the 3D structures
