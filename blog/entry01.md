@@ -7,7 +7,7 @@ For this project, I decided to focus on medical practice because of the impact i
 
 ## Engineering Design Process
 
-At this point, I'm working on understanding and defining the problem. I want to address the **_lack of awareness people have of technology and how it is used in medical practice_**. Many technologies today changed the way doctors diagnose diseases, treat patients, and perform surgeries, but not everyone understands how these technologies work or why they are important. The next stage of the EDP process is researching the problem. I hope to use articles to understand how technologies and their impact, while discussing the topic of technology with the people around me to gain a deeper understanding on what they already know about medical technology.
+At this point, I'm working on understanding and defining the problem. I want to address the **_lack of awareness people have of technology and how it is used in medical practice_**. Many technologies today changed the way doctors diagnose diseases, treat patients, and perform surgeries, but not everyone understands how these technologies work or why they are important. The next stage of the EDP process is researching the problem. I hope to use articles to understand technologies and their impact, while discussing the topic of technology with the people around me to gain a deeper understanding on what they already know about medical technology.
 
 ## Skills
 
