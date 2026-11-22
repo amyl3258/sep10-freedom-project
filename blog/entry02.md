@@ -15,6 +15,8 @@ Currently, I am in the second stage of the engineering design process where I ha
 
 ## Skills
 
+New skills I have developed since my previous blog are:
+
 <ul>
   <li>Organizing</li>
 </ul>
